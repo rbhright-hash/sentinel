@@ -1,0 +1,5 @@
+Oct  1 12:00:01 server sshd[1234]: Failed password for root from 192.168.1.99 port 22 ssh2
+Oct  1 12:00:05 server sshd[1234]: Failed password for root from 192.168.1.99 port 22 ssh2
+Oct  1 12:00:09 server sshd[1234]: Failed password for root from 192.168.1.99 port 22 ssh2
+Oct  1 12:01:15 server sshd[5678]: Accepted password for admin from 10.0.0.5 port 22 ssh2
+Oct  1 12:05:42 server sshd[9012]: session opened for user admin
