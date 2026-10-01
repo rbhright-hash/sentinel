@@ -1,0 +1,16 @@
+=== SENTINEL THREAT INTELLIGENCE REPORT ===
+Generated: 2026-10-01 09:35:44
+Status   : HIGH_RISK
+
+--- OSINT FEED SUMMARY ---
+IOC Count: 50
+Sample IOC: 77.90.185.20
+
+--- LOG ANOMALY SUMMARY ---
+Brute Force IPs: {'192.168.1.99': 3}
+Failed Attempts: 3
+Total Events  : 5
+
+--- RECOMMENDATION ---
+Jika brute_force_detected > 0: blokir IP terkait, audit kebijakan autentikasi.
+Jika IOC terdeteksi: verifikasi terhadap infrastruktur internal.
