@@ -1,6 +1,6 @@
 # Sentinel — OSINT + Log Forensics Toolkit
 
-Toolkit defensif untuk analisis data terbuka (OSINT) dan forensik log keamanan. Dibuat untuk portofolio siber profesional.
+Toolkit defensif untuk analisis data terbuka (OSINT) dan forensik log keamanan
 
 ## Modul
 - `osint_collector`: Agregasi IOC publik
